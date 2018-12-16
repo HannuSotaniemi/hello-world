@@ -1,2 +1,3 @@
 # hello-world
-This is probably almost mandatory
+# This is probably almost mandatory
+print("Hello World!")
